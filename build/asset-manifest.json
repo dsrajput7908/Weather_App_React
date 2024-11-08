@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3b1c726.css",
+    "main.js": "/static/js/main.28029120.js",
+    "static/media/city.jpeg": "/static/media/city.d1c53959fe30a653ad03.jpeg",
+    "static/media/WeatherIcons.gif": "/static/media/WeatherIcons.c90d089e17d438e81f7e.gif",
+    "static/media/background.jpg": "/static/media/background.2463f47f2bed444877d4.jpg",
+    "index.html": "/index.html",
+    "main.b3b1c726.css.map": "/static/css/main.b3b1c726.css.map",
+    "main.28029120.js.map": "/static/js/main.28029120.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3b1c726.css",
+    "static/js/main.28029120.js"
+  ]
+}
